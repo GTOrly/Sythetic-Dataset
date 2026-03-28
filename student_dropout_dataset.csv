@@ -1,0 +1,501 @@
+student_id,student_name,age,gender,origin,high_school_avg,admission_score,first_cut_grade,second_cut_grade,third_cut_grade,first_semester_grade,socioeconomic_level,scholarship,loan,financial_aid,dropout
+CUC-1000,Camilo Torres,29,Male,Cartagena,60.5,78.37,2.59,3.29,2.77,2.87,3,No,No,No,No
+CUC-1001,Mateo Castro,26,Male,Santa Marta,63.94,84.19,2.52,2.99,2.48,2.64,6,Yes,No,Yes,No
+CUC-1002,Laura Gonzalez,27,Female,Soledad,70.46,77.01,3.37,2.14,3.75,3.15,6,No,No,No,No
+CUC-1003,Camilo Vargas,25,Female,Barranquilla,66.8,75.4,2.14,3.04,3.16,2.81,4,Yes,No,Yes,No
+CUC-1004,Carlos Castro,28,Female,Soledad,66.83,60.8,1.8,2.21,3.05,2.42,3,Yes,No,No,No
+CUC-1005,Sofia Martinez,23,Male,Monteria,54.06,72.54,3.67,3.66,3.82,3.73,5,No,Yes,Yes,Yes
+CUC-1006,Juan Ramirez,29,Female,Barranquilla,80.89,60.16,4.03,1.89,2.33,2.71,1,Yes,No,No,No
+CUC-1007,Maria Martinez,17,Male,Cartagena,78.39,69.71,2.97,3.92,2.21,2.95,3,No,No,No,Yes
+CUC-1008,Camila Ramirez,24,Male,Santa Marta,58.01,50.32,2.83,3.5,2.98,3.09,3,No,No,No,Yes
+CUC-1009,Maria Moreno,16,Male,Soledad,,50.41,4.0,3.5,4.15,3.91,6,No,Yes,No,Yes
+CUC-1010,Daniel Moreno,23,Male,Barranquilla,91.81,67.71,2.5,1.68,3.01,2.46,1,No,Yes,No,Yes
+CUC-1011,Camila Hernandez,27,,Monteria,67.49,63.42,2.35,2.97,4.52,3.4,4,No,No,No,Yes
+CUC-1012,David Castro,26,Female,Barranquilla,86.67,71.28,3.8,4.01,4.24,4.04,5,Yes,No,Yes,Yes
+CUC-1013,Paula Moreno,27,Male,Other,69.27,68.38,3.31,2.84,3.6,3.28,4,No,Yes,Yes,No
+CUC-1014,Natalia Perez,27,Female,Monteria,76.81,70.36,4.05,2.45,3.64,3.4,2,No,No,No,Yes
+CUC-1015,Camila Lopez,19,Other,Cartagena,66.64,77.3,1.8,2.75,3.6,2.81,6,No,No,Yes,Yes
+CUC-1016,Juan Gonzalez,19,Female,Santa Marta,97.14,64.44,2.32,3.15,3.51,3.05,4,Yes,Yes,No,Yes
+CUC-1017,Camilo Gonzalez,20,Female,Cartagena,72.04,67.37,3.31,2.6,3.14,3.03,4,No,No,No,No
+CUC-1018,Santiago Lopez,23,Female,Soledad,76.26,87.46,3.59,4.06,3.22,3.59,3,No,No,No,No
+CUC-1019,Gabriela Torres,20,Other,Barranquilla,68.12,70.04,3.89,3.15,2.65,3.17,4,No,No,No,No
+CUC-1020,Isabella Rodriguez,23,Female,Other,93.61,67.85,3.42,2.81,1.85,2.61,3,No,No,No,No
+CUC-1021,Santiago Vargas,25,Male,Monteria,93.87,70.99,3.42,2.29,4.17,3.38,1,Yes,No,No,Yes
+CUC-1022,Maria Torres,16,Male,,91.31,68.06,3.03,3.54,3.51,3.37,2,No,No,No,No
+CUC-1023,Mateo Moreno,27,Female,Barranquilla,84.56,61.49,4.41,3.52,3.4,3.74,5,No,No,No,Yes
+CUC-1024,Camilo Moreno,25,Male,Other,68.75,58.02,2.53,2.65,3.68,3.02,3,No,Yes,Yes,No
+CUC-1025,Laura Perez,24,,Barranquilla,83.28,60.84,3.55,1.63,2.82,2.68,2,No,Yes,No,No
+CUC-1026,Isabella Gomez,21,Male,Soledad,74.93,80.48,2.61,3.49,2.7,2.91,4,Yes,No,No,Yes
+CUC-1027,Sofia Rodriguez,18,Male,Cartagena,88.12,62.44,3.67,3.07,3.2,3.3,5,No,No,No,No
+CUC-1028,Laura Torres,28,Male,Monteria,86.16,68.14,2.57,3.44,4.36,3.55,1,No,Yes,Yes,No
+CUC-1029,Maria Ramirez,29,Male,,68.51,78.41,3.82,4.57,2.58,3.55,4,No,No,Yes,Yes
+CUC-1030,Paula Torres,23,Female,Cartagena,84.48,66.66,3.38,3.18,1.56,2.59,2,No,Yes,No,Yes
+CUC-1031,Gabriela Vargas,24,Female,Soledad,81.82,77.6,4.52,2.84,3.04,3.42,1,Yes,No,No,Yes
+CUC-1032,Camila Rodriguez,21,Female,Other,,51.51,3.1,2.4,4.2,3.33,1,No,No,No,No
+CUC-1033,Paula Torres,26,Female,Monteria,83.01,68.41,3.6,2.98,2.19,2.85,5,Yes,No,No,No
+CUC-1034,Isabella Martinez,22,Male,Barranquilla,70.68,70.95,2.75,3.31,2.57,2.85,2,No,No,No,Yes
+CUC-1035,Isabella Lopez,16,Female,Barranquilla,66.14,70.28,3.1,3.24,3.58,3.33,1,No,Yes,No,Yes
+CUC-1036,Laura Gonzalez,45,Female,Cartagena,66.57,50.16,3.37,4.41,5.0,4.33,3,No,No,No,No
+CUC-1037,Natalia Rodriguez,20,Female,Santa Marta,73.65,84.44,2.23,3.55,2.45,2.71,5,No,Yes,Yes,No
+CUC-1038,Mateo Gonzalez,20,Male,Other,79.8,59.74,2.31,,2.42,2.59,3,No,No,No,Yes
+CUC-1039,Sebastian Hernandez,25,Female,,61.35,74.02,3.72,2.71,3.64,3.38,3,No,Yes,No,Yes
+CUC-1040,Mateo Gomez,29,Female,Santa Marta,76.9,70.1,3.2,3.39,4.24,3.67,1,No,No,No,No
+CUC-1041,Camilo Hernandez,19,Other,Soledad,80.77,82.04,2.88,2.57,2.96,2.82,3,Yes,No,No,Yes
+CUC-1042,Daniel Moreno,21,Female,Other,93.62,96.25,2.78,3.33,2.27,2.74,4,Yes,No,No,Yes
+CUC-1043,Laura Martinez,22,Male,Soledad,64.23,54.52,2.81,3.54,3.7,3.39,4,Yes,No,No,No
+CUC-1044,Carlos Perez,24,Female,Monteria,71.5,62.21,3.38,3.05,3.83,3.46,3,No,No,No,No
+CUC-1045,David Martinez,16,Female,Other,77.62,72.27,3.61,2.76,4.65,3.77,3,Yes,Yes,No,Yes
+CUC-1046,Juan Perez,21,Male,Santa Marta,86.47,56.74,1.84,1.67,3.86,2.6,2,No,Yes,Yes,Yes
+CUC-1047,Daniel Castro,22,Female,Monteria,71.96,79.39,4.29,4.0,3.98,4.08,3,No,No,Yes,Yes
+CUC-1048,Andres Vargas,18,Female,Barranquilla,86.99,80.12,4.24,3.48,3.22,3.6,2,No,Yes,No,Yes
+CUC-1049,Camilo Vargas,23,Male,Santa Marta,55.63,76.71,1.67,3.5,5.0,3.55,5,No,Yes,No,No
+CUC-1050,Santiago Moreno,20,Male,Cartagena,62.47,72.84,4.06,2.11,3.12,3.1,6,No,No,No,Yes
+CUC-1051,Camilo Hernandez,24,Male,Barranquilla,78.49,86.44,4.04,4.17,2.97,6.0,6,Yes,No,No,No
+CUC-1052,Laura Moreno,20,Male,Barranquilla,60.89,56.13,3.3,2.87,4.67,3.72,5,No,No,No,No
+CUC-1053,Maria Gomez,24,Male,Cartagena,63.26,70.78,2.39,3.0,2.37,2.56,4,No,No,Yes,Yes
+CUC-1054,Natalia Lopez,25,Female,Other,69.72,61.13,4.01,2.45,2.11,2.78,5,Yes,No,Yes,Yes
+CUC-1055,Andres Perez,19,Male,Barranquilla,82.71,80.68,3.13,1.95,3.48,2.92,3,No,Yes,Yes,Yes
+CUC-1056,Camila Martinez,24,Male,Santa Marta,56.04,48.0,3.68,4.01,3.4,3.67,4,No,No,No,No
+CUC-1057,Juan Gomez,20,,Monteria,76.7,69.66,4.85,4.1,3.24,3.98,3,No,No,Yes,No
+CUC-1058,Juan Gonzalez,25,Female,Barranquilla,85.33,74.02,3.48,3.08,4.1,3.61,4,Yes,No,No,Yes
+CUC-1059,Mateo Perez,24,Male,Santa Marta,73.05,58.63,2.66,2.72,2.76,2.72,5,No,Yes,No,No
+CUC-1060,Daniel Gonzalez,18,Male,Soledad,71.31,62.49,3.06,2.94,3.44,3.18,3,Yes,No,No,No
+CUC-1061,Isabella Lopez,19,Male,Santa Marta,79.02,70.18,2.75,2.96,3.15,2.97,3,Yes,Yes,Yes,No
+CUC-1062,Santiago Vargas,24,Female,Monteria,73.08,81.46,3.6,2.36,2.78,5.6,6,No,Yes,No,Yes
+CUC-1063,Paula Moreno,25,Male,Santa Marta,,57.61,2.74,3.0,3.36,3.06,1,No,Yes,No,No
+CUC-1064,Sebastian Perez,26,Female,Cartagena,63.89,59.7,2.97,3.31,4.0,3.48,4,No,No,No,No
+CUC-1065,Camilo Gomez,21,Female,Monteria,74.48,83.51,2.4,3.91,4.88,3.85,6,Yes,No,No,Yes
+CUC-1066,Sofia Gonzalez,17,Male,Other,77.06,66.72,3.21,3.21,3.81,3.45,4,No,No,Yes,No
+CUC-1067,Camilo Castro,22,Female,Soledad,71.22,60.67,3.42,2.1,1.64,2.31,4,No,No,No,Yes
+CUC-1068,Sofia Lopez,17,Other,,46.29,78.74,1.42,3.45,3.37,2.81,3,Yes,No,No,Yes
+CUC-1069,Maria Vargas,26,Male,Other,,64.14,3.48,3.02,3.43,3.32,3,No,Yes,No,Yes
+CUC-1070,Sebastian Hernandez,17,Female,Santa Marta,84.0,82.33,3.27,4.16,4.06,3.85,5,Yes,Yes,No,No
+CUC-1071,Valentina Moreno,26,Female,Monteria,82.78,62.04,2.76,4.2,3.53,3.5,4,No,No,No,Yes
+CUC-1072,Camila Moreno,16,Female,Soledad,78.55,68.08,4.72,4.23,4.28,4.39,4,No,No,Yes,No
+CUC-1073,Carlos Vargas,26,Female,Cartagena,64.02,81.34,3.97,2.81,3.67,3.5,2,Yes,No,No,No
+CUC-1074,Camilo Gomez,26,Female,Other,78.95,67.28,2.53,4.59,4.49,3.93,1,Yes,Yes,No,Yes
+CUC-1075,Daniel Hernandez,27,Female,Other,69.27,79.07,3.89,3.45,3.09,3.44,6,Yes,Yes,No,No
+CUC-1076,Sebastian Hernandez,26,Female,Soledad,78.53,69.21,4.17,4.34,3.5,3.95,3,Yes,Yes,No,No
+CUC-1077,Juan Lopez,18,Female,Santa Marta,76.22,93.78,3.39,2.85,3.98,3.46,4,No,No,No,No
+CUC-1078,Valentina Martinez,21,Female,Soledad,65.24,88.83,3.55,2.99,3.0,3.16,1,No,No,No,No
+CUC-1079,Santiago Gonzalez,23,Female,Other,66.08,54.06,3.54,3.39,2.85,3.22,4,Yes,No,Yes,No
+CUC-1080,Daniel Perez,24,Male,Barranquilla,78.55,76.27,1.84,3.31,2.96,2.73,6,Yes,No,No,Yes
+CUC-1081,Paula Moreno,22,Male,Cartagena,72.79,60.2,3.17,4.08,2.88,3.32,4,No,,No,No
+CUC-1082,Mateo Castro,19,Male,Soledad,66.6,72.3,3.13,3.04,3.77,3.36,2,No,No,No,Yes
+CUC-1083,Santiago Torres,21,Male,Other,65.77,70.82,4.3,4.02,2.12,3.34,4,Yes,Yes,No,No
+CUC-1084,David Gomez,20,Male,Santa Marta,71.96,57.34,3.53,3.71,2.31,3.1,5,Yes,No,No,Yes
+CUC-1085,Camila Lopez,23,Female,Other,90.68,82.7,3.09,3.05,4.7,3.72,3,No,No,No,No
+CUC-1086,Maria Perez,16,Male,Santa Marta,,72.44,3.24,3.66,2.89,3.23,5,Yes,Yes,No,No
+CUC-1087,David Gonzalez,16,,Soledad,74.86,66.58,4.02,2.87,3.54,3.48,4,Yes,No,No,No
+CUC-1088,David Martinez,28,Male,Santa Marta,76.02,64.74,3.17,4.85,2.36,3.35,6,No,No,No,Yes
+CUC-1089,David Castro,26,Female,Monteria,63.69,71.68,2.81,1.33,3.47,2.63,4,No,No,No,Yes
+CUC-1090,David Rodriguez,21,Female,Monteria,57.37,74.9,3.11,3.67,2.9,3.19,2,No,No,No,No
+CUC-1091,Maria Moreno,25,Male,Monteria,64.73,68.5,3.96,1.96,2.31,2.7,3,No,No,Yes,No
+CUC-1092,Andres Gomez,27,,Barranquilla,77.47,36.01,3.65,3.04,4.34,3.74,2,No,No,No,Yes
+CUC-1093,Daniel Perez,17,Male,Soledad,75.87,70.2,3.33,,4.23,3.63,6,Yes,Yes,No,No
+CUC-1094,Maria Gonzalez,20,Female,Other,82.02,52.7,3.43,4.26,3.32,3.64,5,No,Yes,Yes,No
+CUC-1095,Camila Vargas,16,Male,Other,75.97,67.49,2.91,2.72,4.1,3.33,4,Yes,Yes,Yes,Yes
+CUC-1096,Valentina Lopez,22,Female,Barranquilla,73.9,53.15,3.16,4.12,4.73,4.08,3,Yes,Yes,No,No
+CUC-1097,Sofia Lopez,16,Male,Santa Marta,68.96,53.0,2.84,2.37,3.93,3.13,2,No,No,No,No
+CUC-1098,Carlos Martinez,50,Female,Barranquilla,83.85,84.82,3.09,4.14,3.74,3.67,5,No,,No,No
+CUC-1099,David Ramirez,24,Female,Santa Marta,,66.16,4.24,2.87,3.54,3.55,3,No,Yes,Yes,Yes
+CUC-1100,Andres Torres,16,Male,Santa Marta,63.9,65.24,2.55,3.25,3.85,3.28,2,No,No,No,No
+CUC-1101,Maria Ramirez,19,Male,Cartagena,80.67,75.79,2.82,2.96,3.15,2.99,4,Yes,Yes,No,No
+CUC-1102,Carlos Gomez,21,Male,Other,61.67,65.55,2.42,4.1,3.21,3.24,1,Yes,No,No,Yes
+CUC-1103,Santiago Moreno,21,Male,Monteria,99.15,95.25,2.27,3.96,3.72,3.36,3,No,Yes,No,No
+CUC-1104,Valentina Perez,27,Female,Santa Marta,75.8,66.72,3.17,3.51,3.07,3.23,3,No,No,No,No
+CUC-1105,Sofia Perez,28,Male,Cartagena,78.48,74.38,2.87,2.39,3.14,2.84,2,No,Yes,No,No
+CUC-1106,Juan Perez,23,Male,Other,66.92,81.65,4.53,2.7,3.4,3.53,6,No,No,No,Yes
+CUC-1107,Camilo Torres,16,Male,Monteria,71.85,89.23,3.1,2.48,4.21,3.36,2,No,No,No,No
+CUC-1108,Santiago Gomez,22,Female,Santa Marta,,61.1,4.2,1.63,2.61,2.79,2,No,No,No,Yes
+CUC-1109,Laura Lopez,16,Male,Santa Marta,69.58,64.98,3.98,4.08,3.93,3.99,2,Yes,Yes,Yes,Yes
+CUC-1110,Gabriela Martinez,28,Male,Barranquilla,81.33,85.3,3.15,2.97,3.95,3.42,5,No,Yes,Yes,Yes
+CUC-1111,Daniel Castro,29,Male,Barranquilla,70.5,79.72,4.78,2.96,3.95,3.9,3,No,Yes,No,No
+CUC-1112,Gabriela Lopez,22,,Other,85.18,82.9,3.49,4.25,2.84,3.45,4,Yes,No,No,No
+CUC-1113,Paula Perez,18,Female,Monteria,100.0,53.58,4.36,2.87,2.22,3.05,1,No,Yes,Yes,Yes
+CUC-1114,Camilo Moreno,26,Male,Santa Marta,72.04,88.58,4.28,2.61,3.79,3.58,1,Yes,No,Yes,No
+CUC-1115,Natalia Vargas,23,Male,Other,76.52,60.86,3.59,3.04,3.53,3.4,3,No,No,Yes,Yes
+CUC-1116,Natalia Hernandez,18,Female,Other,78.79,72.31,3.83,2.41,4.1,3.51,5,Yes,No,No,No
+CUC-1117,David Rodriguez,29,Female,Soledad,,68.22,3.74,3.44,2.91,3.32,6,No,No,No,No
+CUC-1118,Daniel Moreno,29,Male,Barranquilla,74.17,59.46,2.5,2.94,3.93,3.2,2,Yes,Yes,No,No
+CUC-1119,Andres Gonzalez,28,Female,Monteria,66.71,53.05,3.34,2.84,4.14,3.51,4,No,Yes,No,Yes
+CUC-1120,Santiago Hernandez,16,Female,Santa Marta,62.34,49.07,4.05,2.78,3.33,3.38,6,Yes,No,No,No
+CUC-1121,Juan Perez,28,Male,Other,74.42,71.43,4.37,3.13,3.69,3.72,3,Yes,No,No,Yes
+CUC-1122,Natalia Perez,28,Female,Santa Marta,70.52,51.7,2.8,3.26,3.67,3.28,5,No,Yes,Yes,Yes
+CUC-1123,Daniel Martinez,29,Female,Soledad,95.1,56.39,3.67,2.84,2.82,3.08,2,No,Yes,No,No
+CUC-1124,Carlos Gomez,23,Male,Monteria,92.7,67.38,3.41,2.95,3.77,3.42,6,Yes,No,No,No
+CUC-1125,Laura Torres,18,Male,Other,64.66,38.33,3.22,3.14,4.54,3.72,5,Yes,Yes,No,Yes
+CUC-1126,Valentina Martinez,17,Male,Santa Marta,67.89,79.35,3.55,3.07,3.42,3.35,6,No,No,Yes,No
+CUC-1127,Juan Hernandez,16,Female,Barranquilla,75.74,41.08,3.45,3.22,2.38,2.95,4,No,No,No,No
+CUC-1128,Juan Hernandez,29,Other,Soledad,88.97,69.07,3.68,2.73,2.92,3.09,3,No,Yes,No,Yes
+CUC-1129,Gabriela Rodriguez,18,Female,Monteria,75.57,70.18,4.31,3.9,2.15,3.33,6,Yes,Yes,No,No
+CUC-1130,Maria Ramirez,17,Male,Soledad,68.53,76.46,3.85,3.27,4.3,3.86,3,No,Yes,Yes,No
+CUC-1131,Juan Hernandez,17,Female,Barranquilla,,69.5,3.52,2.85,3.93,3.48,3,Yes,No,No,No
+CUC-1132,Sofia Gomez,21,Female,Monteria,68.72,94.21,4.61,3.44,3.05,3.63,5,Yes,No,Yes,No
+CUC-1133,Sofia Gomez,27,Male,Soledad,81.02,72.6,4.08,3.15,2.41,3.13,5,No,No,No,No
+CUC-1134,Isabella Gonzalez,16,Male,Cartagena,67.91,82.64,3.24,1.99,2.82,2.69,6,No,No,No,Yes
+CUC-1135,Natalia Torres,17,Female,Barranquilla,69.9,61.32,2.45,3.44,2.95,2.95,2,No,No,No,No
+CUC-1136,Laura Lopez,29,Male,Barranquilla,86.62,71.45,2.61,2.49,3.48,2.92,5,Yes,Yes,No,No
+CUC-1137,Juan Gomez,21,Female,Barranquilla,67.32,88.57,3.95,3.85,3.45,3.72,5,No,Yes,No,Yes
+CUC-1138,Daniel Moreno,18,Male,Cartagena,60.54,67.15,2.86,3.03,4.34,3.5,1,No,No,No,No
+CUC-1139,Isabella Ramirez,19,Male,Cartagena,75.95,72.31,2.59,3.75,2.92,3.07,3,No,Yes,No,No
+CUC-1140,Valentina Perez,16,Male,Santa Marta,71.4,81.77,2.77,2.76,2.34,2.6,3,Yes,Yes,No,No
+CUC-1141,Laura Castro,23,Male,Other,80.11,61.09,2.82,3.25,2.59,2.86,3,Yes,No,No,Yes
+CUC-1142,Maria Gonzalez,28,Female,Soledad,,44.06,3.9,4.05,3.38,3.74,6,No,No,No,Yes
+CUC-1143,Daniel Moreno,22,Male,Santa Marta,74.68,73.07,3.19,3.01,2.89,3.02,4,No,No,No,No
+CUC-1144,Mateo Gomez,22,Female,Soledad,74.39,81.86,2.34,2.79,3.2,2.82,5,Yes,No,No,Yes
+CUC-1145,Andres Moreno,18,Female,Other,67.64,53.78,3.32,3.66,3.08,3.33,6,No,Yes,No,No
+CUC-1146,Natalia Perez,25,Female,Cartagena,75.83,78.04,3.46,,4.09,3.77,3,Yes,No,No,Yes
+CUC-1147,Sofia Perez,25,Male,Other,83.81,78.12,2.96,2.82,2.99,2.93,5,No,Yes,No,Yes
+CUC-1148,David Gomez,18,Female,Cartagena,65.27,42.72,4.11,1.81,3.14,3.03,3,Yes,No,No,Yes
+CUC-1149,Camila Moreno,29,Female,Other,74.95,58.76,3.01,2.77,3.9,3.29,5,No,No,No,Yes
+CUC-1150,Isabella Gonzalez,17,Male,Santa Marta,85.38,65.25,4.08,3.67,3.0,3.53,2,No,Yes,No,No
+CUC-1151,Valentina Perez,27,Male,Monteria,80.05,67.84,3.72,2.66,3.7,3.39,6,Yes,No,Yes,No
+CUC-1152,Santiago Gonzalez,16,,Santa Marta,88.09,61.08,3.95,3.19,3.63,3.6,2,No,Yes,Yes,Yes
+CUC-1153,David Gonzalez,22,Female,Soledad,69.32,60.44,2.53,2.74,3.5,2.98,3,No,No,No,Yes
+CUC-1154,Juan Moreno,22,Male,Santa Marta,56.69,90.06,3.37,1.85,2.61,2.61,5,No,No,No,Yes
+CUC-1155,Daniel Torres,27,,Barranquilla,77.01,68.71,3.26,2.73,4.26,3.5,3,No,No,No,Yes
+CUC-1156,Daniel Perez,17,Female,Soledad,78.63,61.66,2.3,3.67,4.95,3.77,4,Yes,,No,No
+CUC-1157,Gabriela Hernandez,22,Female,Other,88.68,69.51,4.07,1.54,3.41,3.05,3,Yes,Yes,Yes,No
+CUC-1158,Paula Ramirez,28,Female,Soledad,86.88,76.45,2.73,3.38,2.67,2.9,5,Yes,No,No,No
+CUC-1159,Juan Martinez,23,Female,Monteria,80.37,70.62,2.87,2.37,3.42,2.94,2,Yes,No,Yes,No
+CUC-1160,Isabella Martinez,16,Male,Cartagena,82.65,67.53,2.59,3.63,4.09,3.5,1,Yes,Yes,No,No
+CUC-1161,Gabriela Ramirez,24,Male,Other,73.08,62.2,3.79,3.7,2.97,3.44,3,Yes,No,No,No
+CUC-1162,Maria Castro,22,Male,Soledad,62.81,62.05,2.23,3.08,3.31,2.92,3,No,No,Yes,Yes
+CUC-1163,Paula Rodriguez,18,Female,Other,76.18,62.83,3.73,3.08,3.64,3.5,2,No,Yes,No,Yes
+CUC-1164,David Martinez,23,Female,Other,84.83,74.07,4.03,2.64,4.24,3.7,3,Yes,No,No,Yes
+CUC-1165,Daniel Hernandez,22,Male,Other,81.56,58.07,3.68,2.26,3.94,3.36,3,Yes,Yes,No,No
+CUC-1166,Carlos Ramirez,26,,Cartagena,83.34,74.72,3.8,4.39,3.97,4.04,1,No,No,Yes,No
+CUC-1167,Natalia Lopez,28,Female,Santa Marta,70.72,86.96,3.83,2.59,3.1,3.17,4,Yes,Yes,No,No
+CUC-1168,Paula Lopez,23,Female,Other,72.34,73.91,2.64,4.3,3.68,3.55,6,Yes,No,Yes,Yes
+CUC-1169,Juan Rodriguez,21,Male,Barranquilla,79.83,65.56,4.3,2.6,2.89,3.23,2,Yes,No,No,No
+CUC-1170,Sebastian Moreno,24,Female,Monteria,69.53,54.42,2.98,3.57,3.99,3.56,4,No,No,No,Yes
+CUC-1171,Camilo Hernandez,20,Male,Cartagena,69.84,88.94,3.25,2.4,4.21,3.38,4,No,No,No,Yes
+CUC-1172,Sofia Torres,18,Male,Soledad,77.98,55.96,3.07,3.57,3.79,3.51,3,No,No,Yes,No
+CUC-1173,Daniel Martinez,18,Male,Cartagena,82.61,80.18,3.64,2.97,3.14,3.24,5,No,No,No,Yes
+CUC-1174,Isabella Moreno,16,Male,Soledad,73.0,77.66,2.92,,3.26,3.07,3,No,Yes,No,No
+CUC-1175,Mateo Moreno,27,Male,Cartagena,63.37,67.16,3.35,3.63,4.66,3.96,4,No,No,Yes,Yes
+CUC-1176,Maria Rodriguez,23,Female,Soledad,67.64,66.84,2.44,,3.15,2.85,1,No,No,No,Yes
+CUC-1177,David Torres,17,Male,Other,77.04,47.97,4.12,2.2,4.13,3.55,4,No,No,No,No
+CUC-1178,Paula Ramirez,18,Female,Santa Marta,76.92,73.96,3.77,3.73,3.64,3.71,4,Yes,No,Yes,No
+CUC-1179,Mateo Ramirez,23,Male,Soledad,77.41,77.44,3.1,2.4,3.17,2.91,1,Yes,No,Yes,No
+CUC-1180,Carlos Moreno,29,Female,Soledad,80.21,56.93,2.97,3.56,2.46,2.94,3,No,No,No,Yes
+CUC-1181,Andres Gomez,23,Female,Barranquilla,75.06,68.13,3.75,3.88,3.55,3.71,6,No,No,Yes,No
+CUC-1182,Laura Gonzalez,29,Male,Soledad,77.65,70.45,2.8,2.94,3.46,3.11,3,No,Yes,Yes,No
+CUC-1183,Camila Moreno,26,Male,Barranquilla,74.55,77.01,3.39,4.03,4.66,4.09,4,No,No,No,Yes
+CUC-1184,Andres Lopez,19,Male,Monteria,86.49,70.05,4.11,3.54,2.8,3.41,6,No,No,No,No
+CUC-1185,Sofia Ramirez,19,Female,Other,89.32,50.48,2.73,2.71,5.0,3.63,5,Yes,No,No,Yes
+CUC-1186,Sebastian Torres,20,Female,Barranquilla,63.11,63.64,3.56,4.18,3.67,3.79,4,No,No,No,Yes
+CUC-1187,Mateo Perez,21,Male,Santa Marta,72.45,72.7,3.52,2.4,3.66,3.24,5,No,Yes,No,No
+CUC-1188,Laura Torres,20,Female,Other,75.33,80.1,3.23,2.94,2.98,3.04,5,No,No,Yes,No
+CUC-1189,Natalia Rodriguez,29,Male,Barranquilla,72.33,62.59,2.95,3.06,3.62,3.25,3,No,,No,Yes
+CUC-1190,Paula Perez,22,Male,Other,92.93,96.25,4.15,3.62,3.73,3.82,3,No,Yes,No,No
+CUC-1191,David Martinez,17,Female,Other,77.24,47.27,2.88,3.98,4.06,3.68,3,Yes,No,No,No
+CUC-1192,Andres Vargas,22,Male,Other,66.95,63.24,2.03,3.94,2.72,2.88,6,No,Yes,No,No
+CUC-1193,Santiago Moreno,25,Female,Monteria,80.96,69.0,3.75,3.36,4.38,3.89,4,Yes,No,No,Yes
+CUC-1194,Daniel Vargas,22,Male,Santa Marta,77.71,67.59,2.46,3.0,3.65,3.1,2,No,Yes,Yes,No
+CUC-1195,Daniel Rodriguez,16,Other,Cartagena,78.04,55.21,3.78,1.92,3.83,3.24,5,No,No,Yes,Yes
+CUC-1196,Natalia Hernandez,22,Male,Cartagena,93.08,75.37,4.23,2.28,3.25,3.25,4,No,,No,No
+CUC-1197,Laura Gonzalez,20,Male,Barranquilla,78.51,74.45,3.74,4.44,2.75,3.55,1,No,No,No,Yes
+CUC-1198,Daniel Lopez,18,Female,Other,71.96,70.58,4.05,1.91,3.45,3.17,4,No,No,No,Yes
+CUC-1199,Andres Ramirez,28,Male,Barranquilla,55.45,73.98,4.71,2.65,3.53,3.62,3,No,No,No,No
+CUC-1200,Juan Moreno,18,Female,Monteria,73.35,64.91,3.98,4.0,2.43,3.37,5,Yes,Yes,No,No
+CUC-1201,Natalia Perez,19,Female,Monteria,88.06,50.59,3.53,3.35,3.96,3.65,2,No,Yes,No,Yes
+CUC-1202,Andres Ramirez,28,Female,,74.09,61.4,4.44,3.85,4.1,4.13,5,No,No,Yes,Yes
+CUC-1203,Isabella Moreno,27,Female,Monteria,52.6,71.88,4.53,3.58,2.89,3.59,4,No,Yes,Yes,No
+CUC-1204,Andres Gomez,17,Female,Soledad,70.02,71.95,4.54,4.23,2.68,3.7,1,Yes,No,No,Yes
+CUC-1205,Isabella Torres,17,Female,Santa Marta,84.93,70.5,2.96,3.41,3.19,3.18,6,No,No,No,No
+CUC-1206,Andres Moreno,16,Female,Barranquilla,80.46,76.58,2.35,3.66,3.42,3.17,4,No,No,No,Yes
+CUC-1207,Natalia Vargas,20,Female,Santa Marta,66.6,63.03,2.91,2.69,3.22,2.97,3,Yes,No,No,Yes
+CUC-1208,Natalia Gonzalez,19,Male,Monteria,69.35,70.32,3.79,3.61,3.36,3.56,3,Yes,Yes,Yes,Yes
+CUC-1209,Camilo Torres,26,Male,Santa Marta,70.89,76.87,3.41,2.92,3.56,3.32,5,Yes,No,No,No
+CUC-1210,Daniel Gonzalez,25,Female,Santa Marta,68.37,68.98,3.16,2.88,2.44,2.79,3,No,No,No,Yes
+CUC-1211,Paula Ramirez,17,Male,Santa Marta,54.7,55.08,3.69,3.83,2.52,3.26,2,No,,Yes,Yes
+CUC-1212,Andres Torres,18,Female,Monteria,82.64,58.46,2.27,3.83,1.49,2.43,2,No,No,No,No
+CUC-1213,Maria Torres,22,Male,Other,87.57,79.97,3.4,4.38,4.06,3.96,3,Yes,Yes,No,No
+CUC-1214,Paula Vargas,22,Male,Santa Marta,59.82,86.71,4.08,4.34,3.41,3.89,5,No,No,Yes,Yes
+CUC-1215,Daniel Martinez,27,Female,Soledad,87.44,84.1,3.68,3.84,4.13,3.91,3,Yes,No,No,Yes
+CUC-1216,Andres Torres,19,Female,Monteria,,72.79,3.78,2.0,2.6,2.78,2,No,No,No,No
+CUC-1217,Natalia Martinez,20,Male,Santa Marta,87.25,55.56,4.42,4.48,3.42,4.04,2,No,,No,Yes
+CUC-1218,Natalia Lopez,20,Female,Other,75.38,69.92,3.25,3.84,3.55,3.55,3,Yes,No,No,Yes
+CUC-1219,Maria Gomez,21,Female,Monteria,76.36,88.75,2.84,2.66,3.01,2.85,6,No,No,No,No
+CUC-1220,Camila Rodriguez,29,Male,Cartagena,78.72,77.42,4.13,3.71,2.31,3.28,3,Yes,Yes,Yes,No
+CUC-1221,Juan Moreno,24,Female,Other,67.1,67.51,4.12,2.47,4.62,0.2,6,No,No,No,No
+CUC-1222,Daniel Gomez,17,Male,Soledad,86.95,77.54,3.69,3.63,4.38,3.95,4,No,No,No,Yes
+CUC-1223,Carlos Gonzalez,20,Male,Santa Marta,63.79,54.77,3.19,2.28,3.13,2.89,2,No,No,No,Yes
+CUC-1224,Camila Perez,27,Female,Cartagena,70.98,61.65,3.3,2.63,3.76,3.28,6,Yes,No,No,No
+CUC-1225,Daniel Gomez,18,Male,Cartagena,80.24,56.99,2.41,3.7,3.06,3.06,3,Yes,Yes,No,Yes
+CUC-1226,Laura Vargas,19,Female,Monteria,69.91,75.63,4.08,3.95,2.7,3.49,5,No,No,No,No
+CUC-1227,Carlos Moreno,25,Female,Cartagena,82.78,78.57,4.05,3.43,4.68,4.12,6,Yes,No,No,No
+CUC-1228,Sebastian Moreno,21,Male,Soledad,88.76,68.15,2.38,3.0,2.24,2.51,1,No,No,No,Yes
+CUC-1229,Isabella Rodriguez,27,Female,Soledad,85.13,59.52,3.91,1.72,3.2,2.97,2,No,No,No,No
+CUC-1230,Gabriela Perez,23,Female,Barranquilla,55.64,69.76,3.58,3.05,3.46,3.37,5,Yes,No,No,No
+CUC-1231,David Vargas,16,Male,Soledad,76.26,64.16,2.58,3.57,4.56,3.67,3,Yes,Yes,No,No
+CUC-1232,Laura Vargas,25,Female,Other,85.29,60.45,2.46,2.98,4.03,3.24,2,No,No,No,Yes
+CUC-1233,Paula Vargas,29,Female,Cartagena,61.83,74.07,3.56,3.18,2.23,2.92,1,No,No,No,Yes
+CUC-1234,Maria Perez,23,Female,Soledad,82.24,60.9,3.02,3.07,3.4,3.19,1,No,No,No,No
+CUC-1235,Santiago Lopez,26,Female,Monteria,81.67,51.2,4.57,2.97,3.41,3.63,5,No,No,No,Yes
+CUC-1236,Sofia Vargas,29,Male,Barranquilla,62.88,53.87,3.97,3.25,3.24,3.46,2,No,No,No,No
+CUC-1237,Gabriela Castro,22,Female,,83.34,50.76,3.63,3.01,3.83,3.53,3,Yes,No,No,Yes
+CUC-1238,Sofia Hernandez,16,Female,Barranquilla,77.73,72.97,3.67,4.21,2.41,3.33,4,No,Yes,No,No
+CUC-1239,Sofia Vargas,17,Female,Cartagena,81.5,71.8,4.23,1.66,3.11,3.01,3,No,No,Yes,Yes
+CUC-1240,Andres Hernandez,18,Female,Monteria,65.34,71.21,3.89,2.82,3.74,3.51,1,Yes,No,No,No
+CUC-1241,Juan Gomez,16,Female,Barranquilla,76.5,77.05,3.65,2.59,3.88,3.42,5,Yes,No,Yes,Yes
+CUC-1242,Juan Torres,29,Female,Santa Marta,57.95,84.3,2.61,3.35,3.5,3.19,1,Yes,No,Yes,Yes
+CUC-1243,Gabriela Gomez,24,Female,Other,52.23,62.89,5.0,,3.2,3.76,5,Yes,No,Yes,Yes
+CUC-1244,Camilo Martinez,23,Female,Other,76.41,74.88,2.53,4.34,3.32,3.39,6,No,No,No,No
+CUC-1245,Andres Moreno,17,Female,Cartagena,86.01,51.04,3.08,4.57,3.92,3.86,3,No,No,No,Yes
+CUC-1246,David Lopez,28,Female,Santa Marta,77.53,86.54,2.14,2.66,3.42,2.81,4,Yes,No,No,No
+CUC-1247,Sebastian Lopez,24,Female,Barranquilla,74.37,55.06,3.68,3.2,2.67,3.13,3,Yes,No,No,No
+CUC-1248,Juan Hernandez,22,Male,Santa Marta,73.12,61.48,3.41,3.34,2.54,3.04,3,No,No,No,Yes
+CUC-1249,David Gomez,24,Male,Santa Marta,65.57,62.83,3.84,2.64,2.36,2.89,6,No,No,No,No
+CUC-1250,Natalia Hernandez,21,Male,Barranquilla,72.78,51.68,2.08,3.64,4.42,3.48,6,No,No,No,Yes
+CUC-1251,Sebastian Castro,21,Female,Monteria,79.22,70.39,4.08,3.03,3.97,3.72,3,Yes,No,No,No
+CUC-1252,David Torres,26,Female,Santa Marta,70.65,72.57,2.73,2.45,3.33,2.89,4,No,No,Yes,Yes
+CUC-1253,Camila Hernandez,29,Female,Santa Marta,82.51,67.73,3.2,3.0,3.08,3.09,6,No,No,Yes,Yes
+CUC-1254,Camila Hernandez,19,Male,Monteria,76.96,51.52,3.95,2.5,3.0,3.14,6,Yes,Yes,No,Yes
+CUC-1255,Camilo Moreno,25,Female,Santa Marta,78.17,93.8,3.48,3.93,4.17,3.89,4,Yes,Yes,No,Yes
+CUC-1256,Isabella Torres,25,Male,Santa Marta,83.89,76.59,3.53,4.53,4.73,4.31,3,Yes,No,Yes,No
+CUC-1257,Mateo Gonzalez,28,Male,Santa Marta,69.73,100.0,3.86,3.37,2.98,3.36,3,Yes,No,Yes,Yes
+CUC-1258,Andres Perez,28,Female,Other,81.59,60.34,3.6,3.28,4.2,3.74,6,No,No,No,No
+CUC-1259,Camila Hernandez,17,Female,Soledad,71.14,81.49,3.06,3.31,3.42,3.28,2,No,No,No,Yes
+CUC-1260,Sofia Gonzalez,22,Male,Monteria,78.4,79.35,3.18,4.03,3.25,3.46,4,No,Yes,No,No
+CUC-1261,Natalia Hernandez,20,Male,Santa Marta,68.54,66.51,3.45,4.01,4.45,4.02,3,No,No,No,Yes
+CUC-1262,Camilo Gonzalez,26,Male,Other,65.89,86.93,2.67,3.12,3.39,3.09,3,No,No,No,No
+CUC-1263,Paula Vargas,21,Male,Monteria,75.92,65.14,4.0,3.38,3.61,3.66,3,No,No,No,No
+CUC-1264,Camilo Vargas,17,Female,Cartagena,56.15,65.67,3.5,3.66,3.57,3.58,6,No,No,No,No
+CUC-1265,Andres Perez,20,Male,Cartagena,72.04,28.34,3.35,2.4,2.26,2.63,1,Yes,Yes,Yes,Yes
+CUC-1266,Carlos Castro,25,Female,Santa Marta,58.94,74.91,4.13,4.05,3.6,3.9,4,No,Yes,No,Yes
+CUC-1267,Gabriela Moreno,19,Female,Other,82.79,54.09,3.22,4.41,3.01,3.49,2,No,No,Yes,Yes
+CUC-1268,Santiago Vargas,24,Male,Other,85.5,63.39,3.17,4.02,2.41,3.12,2,Yes,No,Yes,No
+CUC-1269,Camila Gomez,21,Male,Monteria,66.36,57.69,2.96,2.33,3.04,2.8,3,No,No,No,Yes
+CUC-1270,Valentina Lopez,17,Male,Monteria,79.28,65.61,3.54,1.82,3.03,2.82,4,No,Yes,No,No
+CUC-1271,Isabella Martinez,16,Male,Other,83.99,75.33,3.52,3.7,4.12,3.81,3,No,Yes,No,Yes
+CUC-1272,Paula Hernandez,20,Male,Monteria,84.02,70.13,2.83,2.67,2.66,2.71,3,No,No,Yes,No
+CUC-1273,Gabriela Castro,24,Female,Other,77.14,78.52,3.18,3.4,2.85,3.11,2,No,No,No,No
+CUC-1274,Maria Gonzalez,21,Male,Soledad,82.34,85.19,2.84,4.27,3.56,3.56,3,No,No,No,No
+CUC-1275,Andres Ramirez,25,,Other,68.51,65.57,2.81,2.74,2.47,2.65,6,No,Yes,No,Yes
+CUC-1276,Laura Gomez,27,Male,Cartagena,75.83,64.26,2.09,2.94,2.94,2.68,6,No,No,Yes,Yes
+CUC-1277,David Lopez,22,Female,Monteria,70.33,81.49,3.14,3.39,2.23,2.85,3,No,Yes,No,Yes
+CUC-1278,Sebastian Torres,20,Female,Other,67.66,82.44,2.11,,4.04,2.94,4,No,Yes,No,Yes
+CUC-1279,Sofia Ramirez,25,Female,Other,75.36,78.89,2.98,2.67,3.19,2.97,6,No,No,Yes,No
+CUC-1280,Camila Ramirez,21,Female,Monteria,78.48,58.57,2.87,3.22,3.39,3.18,1,No,Yes,No,No
+CUC-1281,Camilo Castro,20,Female,,86.64,75.07,4.04,2.99,4.04,3.72,5,No,Yes,No,No
+CUC-1282,Paula Vargas,26,Female,Soledad,77.65,71.31,2.59,3.63,2.89,3.02,6,Yes,No,Yes,Yes
+CUC-1283,Camilo Perez,24,Female,Monteria,81.42,82.63,2.77,5.0,3.18,3.6,2,Yes,No,Yes,No
+CUC-1284,Sebastian Rodriguez,21,Female,Barranquilla,81.53,63.13,3.03,3.27,2.66,2.95,2,Yes,No,Yes,Yes
+CUC-1285,Laura Hernandez,26,Male,Monteria,100.0,50.0,2.89,2.61,2.66,2.72,6,No,No,No,Yes
+CUC-1286,Camilo Gomez,23,Male,Monteria,56.9,78.28,4.26,4.19,2.76,3.64,4,Yes,Yes,Yes,Yes
+CUC-1287,Juan Moreno,17,Female,Soledad,68.12,39.3,2.5,2.09,3.06,2.6,1,Yes,Yes,No,Yes
+CUC-1288,David Hernandez,27,Female,Soledad,89.74,61.22,3.03,2.23,3.13,2.83,3,No,,No,Yes
+CUC-1289,Daniel Ramirez,28,Female,Monteria,71.48,57.72,3.53,2.78,3.6,3.34,3,Yes,No,No,No
+CUC-1290,Valentina Vargas,24,Female,Monteria,83.86,57.64,3.92,,2.78,3.19,4,No,No,Yes,No
+CUC-1291,Camila Gonzalez,20,Other,Monteria,77.3,61.01,3.03,2.77,3.62,3.19,5,Yes,Yes,Yes,Yes
+CUC-1292,Natalia Ramirez,22,Male,Soledad,96.05,84.61,1.96,3.18,3.74,3.04,6,No,No,No,Yes
+CUC-1293,Carlos Moreno,25,Male,Monteria,63.87,79.85,3.19,3.39,3.07,3.21,3,No,Yes,No,No
+CUC-1294,Andres Torres,28,Male,Monteria,87.22,66.98,4.25,3.95,2.84,3.59,4,No,No,No,No
+CUC-1295,Juan Perez,16,Male,Santa Marta,92.5,83.6,3.5,3.26,3.46,3.41,4,No,No,Yes,Yes
+CUC-1296,Gabriela Hernandez,25,Female,Barranquilla,64.86,57.25,3.47,2.81,3.26,3.18,3,No,No,No,No
+CUC-1297,David Gomez,20,Male,Cartagena,82.83,55.62,2.56,3.91,3.55,3.36,2,Yes,No,No,No
+CUC-1298,Juan Lopez,27,Female,Barranquilla,65.35,80.36,2.48,2.63,4.5,3.33,6,Yes,No,No,No
+CUC-1299,Carlos Moreno,29,Male,Santa Marta,75.3,76.96,3.31,2.06,3.45,2.99,5,Yes,No,No,Yes
+CUC-1300,Paula Martinez,25,Female,Cartagena,72.43,64.48,2.3,4.04,2.95,3.08,4,No,No,No,No
+CUC-1301,Valentina Moreno,29,Female,Monteria,50.97,56.37,3.85,4.0,2.78,3.46,4,No,Yes,Yes,No
+CUC-1302,Laura Vargas,17,Male,Santa Marta,79.24,87.52,2.71,2.65,2.8,2.73,2,No,No,No,Yes
+CUC-1303,Sofia Vargas,27,Female,Monteria,76.43,49.36,3.28,2.92,2.38,2.81,4,Yes,Yes,No,Yes
+CUC-1304,Laura Vargas,21,Male,Soledad,89.79,62.82,1.98,2.56,4.05,2.98,4,No,No,Yes,No
+CUC-1305,Gabriela Moreno,26,Male,Other,81.11,72.74,3.02,3.43,1.84,2.67,4,No,No,No,Yes
+CUC-1306,Andres Hernandez,16,Male,Santa Marta,97.91,91.63,2.47,4.41,3.74,3.56,6,No,No,No,Yes
+CUC-1307,Sofia Castro,18,Male,Soledad,76.07,74.6,1.67,3.69,2.79,2.73,4,No,No,No,Yes
+CUC-1308,David Hernandez,20,Male,Santa Marta,73.94,75.76,3.68,3.93,3.04,3.5,3,Yes,Yes,Yes,No
+CUC-1309,Daniel Gonzalez,19,Female,,73.16,63.17,4.45,3.77,2.77,3.58,5,No,No,No,Yes
+CUC-1310,Sebastian Moreno,18,Female,Soledad,70.6,76.82,4.09,3.2,4.41,3.95,2,No,No,No,No
+CUC-1311,Natalia Perez,25,Female,Cartagena,52.92,71.26,3.78,3.96,3.41,3.69,3,Yes,No,No,No
+CUC-1312,Valentina Rodriguez,28,Male,,72.8,50.94,3.01,3.72,3.95,3.6,3,Yes,No,Yes,No
+CUC-1313,Andres Hernandez,20,Female,Monteria,54.32,79.52,3.86,4.21,4.31,4.15,3,No,No,No,Yes
+CUC-1314,Maria Vargas,26,Male,Santa Marta,79.52,81.64,4.16,2.88,3.51,3.52,5,No,,No,No
+CUC-1315,Gabriela Castro,23,Male,Monteria,62.6,79.64,3.4,1.98,2.56,2.64,4,No,Yes,No,Yes
+CUC-1316,Sebastian Gonzalez,26,Female,Other,66.06,70.4,2.47,3.93,3.25,3.22,5,Yes,Yes,No,Yes
+CUC-1317,Daniel Ramirez,19,Male,,68.31,58.53,2.95,3.44,2.88,3.07,4,No,No,Yes,No
+CUC-1318,Daniel Rodriguez,16,Female,Monteria,72.95,42.29,4.49,2.99,3.05,3.46,3,No,No,Yes,Yes
+CUC-1319,Mateo Gomez,26,Female,Soledad,75.07,71.88,3.25,3.03,3.33,3.22,5,No,No,No,No
+CUC-1320,Carlos Gonzalez,22,Male,Monteria,85.84,82.98,0.97,4.99,3.31,3.11,3,No,No,No,Yes
+CUC-1321,David Gomez,23,Male,,,81.95,2.27,2.75,3.69,2.98,2,Yes,No,No,Yes
+CUC-1322,Maria Hernandez,18,Male,Barranquilla,79.8,79.79,3.0,2.6,3.79,3.2,4,No,No,Yes,Yes
+CUC-1323,Juan Gomez,21,Female,Barranquilla,100.0,69.11,4.03,3.26,3.31,3.51,3,No,Yes,No,No
+CUC-1324,Natalia Lopez,17,Male,Barranquilla,78.77,83.05,3.11,4.03,3.68,3.61,1,No,Yes,No,No
+CUC-1325,Valentina Moreno,22,Male,Barranquilla,73.2,81.09,4.04,4.79,3.02,3.86,4,No,No,No,No
+CUC-1326,David Gonzalez,23,Male,Barranquilla,67.21,64.93,2.93,,4.32,3.71,4,No,No,No,Yes
+CUC-1327,Andres Ramirez,21,Female,Soledad,73.06,78.12,1.92,2.31,3.0,2.47,3,No,No,Yes,Yes
+CUC-1328,Juan Gonzalez,21,Male,Santa Marta,66.14,63.57,2.96,4.58,4.24,3.96,6,No,No,No,No
+CUC-1329,Andres Gonzalez,20,Male,Monteria,77.69,76.48,3.54,3.19,2.37,2.97,4,No,Yes,Yes,Yes
+CUC-1330,Andres Vargas,23,Female,Barranquilla,76.04,54.41,3.48,2.61,3.13,3.08,5,No,No,No,Yes
+CUC-1331,Paula Perez,16,Female,Soledad,53.38,55.33,2.42,2.44,3.17,2.73,2,No,Yes,No,No
+CUC-1332,David Gonzalez,25,Male,Soledad,74.81,82.7,3.05,3.79,3.6,3.49,4,No,No,No,Yes
+CUC-1333,Isabella Hernandez,19,Male,Soledad,85.76,81.25,5.0,3.37,4.0,4.11,5,No,No,No,No
+CUC-1334,Isabella Gomez,19,Male,Santa Marta,71.01,77.6,2.44,3.44,2.53,2.77,4,Yes,No,No,No
+CUC-1335,Sebastian Torres,18,Female,Monteria,68.47,71.06,3.76,4.1,2.62,3.41,5,No,No,No,Yes
+CUC-1336,Daniel Gomez,18,Male,Santa Marta,61.22,41.3,1.83,2.64,2.42,2.31,3,Yes,Yes,No,Yes
+CUC-1337,Laura Rodriguez,19,Female,Cartagena,56.42,69.1,3.9,4.16,4.32,4.15,2,No,No,No,Yes
+CUC-1338,Laura Lopez,26,Female,Soledad,83.31,75.45,2.68,2.84,3.61,3.1,3,Yes,No,Yes,No
+CUC-1339,Maria Ramirez,16,Female,Cartagena,73.19,63.58,3.58,4.71,2.64,3.55,3,No,No,No,No
+CUC-1340,Juan Castro,29,Male,Other,82.72,61.45,2.4,3.62,3.09,3.04,5,No,No,No,Yes
+CUC-1341,Gabriela Moreno,26,Female,Barranquilla,90.31,87.33,3.5,2.56,4.23,3.51,3,No,,Yes,Yes
+CUC-1342,Daniel Ramirez,28,Female,Barranquilla,84.21,69.28,2.66,1.78,3.21,2.62,6,No,No,Yes,No
+CUC-1343,Camila Gonzalez,26,Female,Santa Marta,69.58,75.46,2.8,3.77,3.16,3.24,6,Yes,Yes,Yes,No
+CUC-1344,David Lopez,17,Male,Monteria,76.45,79.29,3.61,2.94,2.85,3.11,3,No,No,No,Yes
+CUC-1345,Mateo Gonzalez,24,Other,Cartagena,68.85,57.98,3.0,3.09,2.68,2.9,3,Yes,Yes,No,Yes
+CUC-1346,Isabella Rodriguez,25,Male,Monteria,67.92,72.32,3.57,3.74,4.23,3.88,6,No,No,Yes,Yes
+CUC-1347,Carlos Perez,17,Male,Santa Marta,78.43,85.84,3.17,3.91,4.57,3.95,6,No,No,Yes,No
+CUC-1348,Camilo Ramirez,20,Male,Barranquilla,66.68,91.83,3.35,4.06,2.71,3.31,3,No,No,No,No
+CUC-1349,Maria Ramirez,24,Female,Monteria,52.91,70.48,3.61,2.38,4.38,3.55,3,Yes,No,No,Yes
+CUC-1350,Gabriela Rodriguez,24,Male,Monteria,66.12,67.14,3.05,4.2,3.06,3.4,4,Yes,No,No,No
+CUC-1351,Gabriela Castro,23,Male,Barranquilla,71.93,73.23,2.6,2.79,3.77,3.13,4,No,Yes,No,Yes
+CUC-1352,Maria Torres,16,Male,Cartagena,90.21,72.92,2.93,1.62,4.39,3.12,3,No,No,No,No
+CUC-1353,Valentina Gomez,16,Male,Barranquilla,70.09,86.64,4.14,2.38,3.3,3.27,5,No,No,Yes,Yes
+CUC-1354,Mateo Moreno,24,Female,Monteria,80.12,58.04,3.38,3.35,3.17,3.29,1,No,No,Yes,No
+CUC-1355,Paula Perez,28,Female,Cartagena,73.32,66.64,2.71,2.51,3.96,3.15,1,No,Yes,No,No
+CUC-1356,David Gonzalez,26,Male,Cartagena,87.26,56.59,3.58,3.14,2.62,3.07,3,Yes,No,Yes,No
+CUC-1357,Sofia Vargas,23,Male,Barranquilla,86.57,57.85,3.63,,4.2,3.8,3,No,No,No,Yes
+CUC-1358,David Vargas,25,Female,Monteria,86.76,74.52,3.66,3.07,3.5,3.42,3,No,No,No,Yes
+CUC-1359,David Moreno,24,Male,Santa Marta,57.66,79.72,2.62,2.85,3.0,2.84,4,Yes,No,No,Yes
+CUC-1360,Andres Rodriguez,22,Male,Monteria,77.07,62.21,2.82,2.32,2.98,2.73,3,No,No,No,No
+CUC-1361,Valentina Gonzalez,18,Female,Soledad,82.59,79.27,2.83,3.22,2.43,2.79,2,Yes,No,No,Yes
+CUC-1362,Maria Castro,18,Female,Other,78.82,83.34,3.05,1.75,3.02,2.65,3,No,No,Yes,No
+CUC-1363,Carlos Castro,17,Male,Santa Marta,81.37,93.22,3.68,2.72,3.22,3.21,6,Yes,Yes,Yes,Yes
+CUC-1364,Mateo Hernandez,20,Female,Cartagena,75.58,70.84,3.51,2.55,2.66,2.88,3,No,Yes,No,Yes
+CUC-1365,Natalia Castro,27,Male,Santa Marta,67.55,62.32,3.56,3.03,3.37,3.33,3,Yes,No,No,No
+CUC-1366,Natalia Martinez,27,Female,Cartagena,,57.97,4.25,3.05,3.73,3.68,4,No,Yes,Yes,Yes
+CUC-1367,Sofia Martinez,18,Male,Cartagena,68.54,56.78,3.78,3.87,3.25,3.6,6,No,No,No,Yes
+CUC-1368,Sofia Martinez,29,Male,Santa Marta,100.0,85.0,3.2,4.31,3.86,3.8,3,No,No,No,Yes
+CUC-1369,Juan Perez,21,Male,Cartagena,70.14,51.82,2.47,2.42,2.84,2.6,4,No,Yes,No,No
+CUC-1370,Gabriela Vargas,17,Female,Cartagena,55.41,84.61,2.8,4.59,4.1,3.86,5,No,No,No,No
+CUC-1371,Andres Rodriguez,27,Female,Soledad,82.33,59.58,3.12,2.65,3.49,3.13,4,Yes,No,No,Yes
+CUC-1372,Paula Ramirez,18,Male,Monteria,83.55,61.78,3.88,3.32,4.48,3.95,2,Yes,No,Yes,No
+CUC-1373,Valentina Gomez,60,Male,Monteria,87.87,68.18,3.28,3.56,5.0,4.05,4,Yes,No,No,Yes
+CUC-1374,Andres Hernandez,27,Female,Other,79.71,61.56,2.84,4.91,3.07,3.55,1,No,No,Yes,Yes
+CUC-1375,Camila Vargas,26,Male,Other,83.46,81.18,2.79,2.82,3.1,2.92,4,No,No,No,Yes
+CUC-1376,Isabella Rodriguez,26,Male,Soledad,93.4,91.76,3.25,1.94,3.23,2.85,5,No,No,No,No
+CUC-1377,David Vargas,16,Female,,67.55,62.11,3.92,4.24,3.82,3.98,2,No,No,No,Yes
+CUC-1378,Sebastian Castro,28,Male,Santa Marta,65.56,64.81,4.41,2.62,4.33,3.84,5,Yes,Yes,No,Yes
+CUC-1379,Santiago Vargas,16,Female,Barranquilla,64.05,68.04,3.16,2.95,2.94,3.01,1,Yes,Yes,No,Yes
+CUC-1380,Mateo Hernandez,25,Female,,72.34,76.49,3.27,2.42,3.67,3.17,5,Yes,No,No,Yes
+CUC-1381,Mateo Martinez,24,Male,Barranquilla,89.33,68.16,2.45,2.95,3.3,2.94,3,No,Yes,No,No
+CUC-1382,Carlos Gomez,22,Male,Soledad,80.28,86.65,4.66,2.61,3.83,3.71,2,Yes,Yes,No,Yes
+CUC-1383,Sofia Gomez,16,Male,Soledad,79.89,83.76,2.32,3.67,4.46,3.58,2,Yes,No,No,Yes
+CUC-1384,Laura Gomez,27,Female,Cartagena,56.81,55.77,4.12,3.26,3.23,3.51,6,No,Yes,Yes,No
+CUC-1385,Juan Torres,29,Female,Barranquilla,68.07,76.25,3.04,,2.23,2.62,1,No,No,No,Yes
+CUC-1386,Mateo Martinez,23,Female,Santa Marta,56.64,88.24,2.88,3.9,3.92,3.6,2,Yes,No,No,No
+CUC-1387,Isabella Vargas,18,Male,Other,86.71,64.06,2.52,3.38,2.82,2.9,3,Yes,No,Yes,No
+CUC-1388,Isabella Martinez,23,Female,Santa Marta,90.86,66.47,4.99,1.91,3.3,3.39,4,Yes,No,Yes,Yes
+CUC-1389,Maria Vargas,20,Female,Other,82.8,63.66,3.46,3.84,3.95,3.77,4,No,Yes,No,No
+CUC-1390,Isabella Castro,16,Female,Barranquilla,65.13,63.92,3.31,3.33,3.61,3.44,2,No,No,Yes,Yes
+CUC-1391,Camilo Perez,22,Female,Barranquilla,89.82,49.98,3.92,4.17,3.33,3.76,3,Yes,No,No,No
+CUC-1392,Mateo Lopez,20,Female,Barranquilla,72.47,54.06,2.84,3.29,3.0,3.04,3,Yes,No,No,Yes
+CUC-1393,Isabella Castro,21,Female,Soledad,62.86,70.93,3.3,2.65,1.37,2.33,2,No,No,No,Yes
+CUC-1394,Mateo Moreno,21,Female,Other,65.36,88.16,3.34,3.06,3.89,3.47,3,No,No,Yes,No
+CUC-1395,Sebastian Rodriguez,23,Male,Soledad,70.7,62.64,2.94,3.76,3.22,3.3,5,Yes,No,No,No
+CUC-1396,Valentina Perez,24,Male,Soledad,75.5,62.29,4.14,2.66,4.46,3.82,2,No,Yes,No,No
+CUC-1397,Mateo Hernandez,17,Female,Monteria,73.39,90.42,3.15,2.89,3.68,3.28,3,Yes,No,No,No
+CUC-1398,Andres Moreno,24,Male,Santa Marta,,56.7,2.21,3.04,3.02,2.79,3,No,No,No,Yes
+CUC-1399,Paula Lopez,27,Female,Santa Marta,87.13,50.07,3.09,2.4,4.15,3.3,6,No,Yes,No,Yes
+CUC-1400,David Lopez,26,Other,Cartagena,73.49,60.06,3.47,2.67,4.21,3.53,6,No,No,No,Yes
+CUC-1401,Camila Hernandez,25,Female,Soledad,67.86,62.05,2.67,3.32,3.25,3.1,5,No,Yes,No,No
+CUC-1402,David Torres,24,Male,Other,86.1,49.03,2.73,4.04,4.24,3.73,3,No,No,No,Yes
+CUC-1403,Sofia Vargas,28,Male,Monteria,63.17,68.46,2.92,3.42,3.01,3.11,1,No,,No,No
+CUC-1404,Juan Hernandez,25,Male,Monteria,58.71,81.38,4.15,3.17,3.51,3.6,3,No,Yes,No,Yes
+CUC-1405,Sebastian Rodriguez,25,Female,Santa Marta,87.72,54.57,2.96,2.62,3.8,3.19,3,No,No,No,Yes
+CUC-1406,Mateo Torres,22,Female,Soledad,93.91,71.05,4.3,3.97,3.95,4.06,4,No,Yes,Yes,Yes
+CUC-1407,Mateo Ramirez,16,Female,Cartagena,70.38,74.75,2.87,3.5,3.84,3.45,5,No,No,No,No
+CUC-1408,Maria Martinez,22,Male,Soledad,74.54,69.0,3.53,2.71,3.17,3.14,5,Yes,Yes,No,No
+CUC-1409,Laura Gomez,25,Female,Barranquilla,63.53,72.23,2.99,,4.17,3.71,5,No,No,No,No
+CUC-1410,Camila Perez,20,Female,Soledad,75.05,72.37,3.83,3.59,3.31,3.55,3,No,No,No,Yes
+CUC-1411,Paula Hernandez,21,Male,Barranquilla,70.24,60.25,2.52,2.63,3.0,2.74,4,No,No,Yes,No
+CUC-1412,Andres Ramirez,25,Female,Barranquilla,73.98,87.98,3.82,3.13,3.01,3.29,3,Yes,No,No,Yes
+CUC-1413,Maria Castro,22,Male,Cartagena,79.09,84.97,3.38,2.86,4.76,3.77,1,No,No,Yes,No
+CUC-1414,Sebastian Ramirez,29,Male,Other,64.02,84.28,2.85,5.0,2.88,3.51,5,No,No,No,No
+CUC-1415,Andres Hernandez,52,Female,Santa Marta,71.38,82.16,3.18,3.57,4.3,3.75,1,Yes,No,No,Yes
+CUC-1416,Daniel Gonzalez,22,Male,Soledad,56.96,51.1,4.37,3.33,2.61,3.35,3,No,No,No,Yes
+CUC-1417,Valentina Ramirez,24,Female,Barranquilla,71.45,81.11,3.4,3.53,3.74,3.57,3,Yes,No,No,No
+CUC-1418,Natalia Torres,18,Female,Soledad,74.07,77.87,2.81,4.17,3.61,3.54,4,Yes,Yes,No,Yes
+CUC-1419,Carlos Martinez,23,,Other,77.29,51.56,2.46,3.14,4.53,3.49,5,No,No,No,No
+CUC-1420,Santiago Lopez,17,Male,Santa Marta,77.4,67.42,3.65,2.79,2.94,3.11,3,No,Yes,Yes,No
+CUC-1421,Juan Perez,26,Female,Other,84.04,73.32,3.44,3.79,2.75,3.27,5,No,No,Yes,Yes
+CUC-1422,Laura Gonzalez,22,Female,Santa Marta,59.6,89.97,3.79,,3.32,3.39,3,Yes,No,No,Yes
+CUC-1423,Sofia Martinez,28,Female,Monteria,60.14,78.7,2.28,2.45,4.57,3.24,3,No,No,No,Yes
+CUC-1424,Valentina Rodriguez,17,Male,Santa Marta,80.29,59.63,2.48,2.31,2.78,2.55,5,Yes,Yes,No,Yes
+CUC-1425,Carlos Torres,29,Male,Cartagena,54.61,90.34,4.1,4.27,1.59,3.15,4,Yes,Yes,No,Yes
+CUC-1426,Mateo Ramirez,19,Female,Other,76.83,70.53,3.53,3.29,3.44,3.42,6,Yes,No,No,No
+CUC-1427,David Martinez,22,Male,Barranquilla,63.2,66.93,3.67,2.79,4.06,3.56,2,No,No,No,Yes
+CUC-1428,Valentina Perez,18,Female,Monteria,90.73,66.07,2.63,3.04,2.69,2.77,4,No,No,No,No
+CUC-1429,Maria Castro,17,Female,Cartagena,77.5,50.52,2.61,3.77,3.99,3.51,4,No,,Yes,No
+CUC-1430,Laura Vargas,26,Female,Soledad,72.81,68.68,3.99,2.99,2.67,3.17,6,No,No,Yes,No
+CUC-1431,Sebastian Moreno,25,Female,Other,,75.97,4.03,2.19,3.3,3.18,2,Yes,No,No,Yes
+CUC-1432,Andres Ramirez,22,Female,Barranquilla,64.37,65.38,2.54,3.43,3.93,3.36,5,No,Yes,Yes,Yes
+CUC-1433,Sofia Perez,16,Female,Santa Marta,66.27,75.05,2.4,4.05,2.57,2.96,4,No,No,Yes,Yes
+CUC-1434,Daniel Torres,29,Female,Barranquilla,62.39,59.63,3.22,4.0,3.53,3.58,3,No,Yes,Yes,No
+CUC-1435,David Moreno,23,Female,Soledad,66.35,68.31,2.74,2.81,4.25,3.36,3,Yes,No,No,No
+CUC-1436,Mateo Gomez,18,Male,Monteria,75.61,73.8,2.73,4.09,3.73,3.54,3,No,Yes,No,Yes
+CUC-1437,Isabella Ramirez,27,Male,Monteria,79.94,72.28,2.42,3.35,2.9,2.89,4,No,No,No,Yes
+CUC-1438,Andres Castro,27,Female,Other,84.61,50.73,2.97,4.07,4.46,3.9,6,No,Yes,No,No
+CUC-1439,Sofia Castro,28,Male,Monteria,56.75,64.73,2.49,3.6,3.86,3.37,4,No,Yes,No,Yes
+CUC-1440,Juan Gomez,17,Male,Other,73.28,90.13,2.53,2.13,2.1,2.24,4,Yes,No,No,No
+CUC-1441,Valentina Rodriguez,18,Male,Other,63.92,64.09,3.51,4.42,4.0,3.98,4,No,Yes,Yes,No
+CUC-1442,Paula Gonzalez,20,Female,Other,72.95,70.19,3.26,3.24,3.0,3.15,1,Yes,Yes,Yes,No
+CUC-1443,Paula Moreno,26,Female,Santa Marta,98.34,68.96,3.64,3.6,3.54,0.0,3,No,No,No,Yes
+CUC-1444,Maria Martinez,23,Female,Cartagena,77.92,88.82,2.15,,4.11,2.96,4,No,Yes,No,Yes
+CUC-1445,Maria Torres,25,Female,Other,83.99,85.48,3.31,3.55,3.02,3.26,3,Yes,Yes,No,No
+CUC-1446,Daniel Gonzalez,22,Female,Other,94.61,79.69,4.75,3.97,2.25,3.52,2,No,No,No,No
+CUC-1447,Santiago Gomez,22,Male,Cartagena,86.27,58.32,3.04,4.55,4.45,4.06,4,No,No,No,Yes
+CUC-1448,Santiago Castro,27,Female,Barranquilla,70.52,74.31,3.88,4.18,4.22,4.1,3,Yes,No,Yes,Yes
+CUC-1449,Mateo Martinez,22,Male,Other,62.24,76.82,3.87,3.59,3.34,3.57,3,No,No,Yes,No
+CUC-1450,Valentina Lopez,23,Female,Santa Marta,74.7,61.62,3.91,2.12,4.0,3.41,3,Yes,No,Yes,No
+CUC-1451,Juan Gomez,16,,Monteria,69.32,59.55,3.42,3.29,3.14,3.27,2,No,Yes,No,No
+CUC-1452,Andres Moreno,19,Male,Monteria,59.75,90.46,3.7,2.79,3.47,3.33,6,No,No,No,No
+CUC-1453,Camila Rodriguez,28,Male,Soledad,77.41,66.39,3.79,3.36,3.3,3.47,5,No,No,No,Yes
+CUC-1454,Isabella Gonzalez,21,Male,Soledad,77.66,89.38,3.74,2.35,3.17,3.1,5,No,No,Yes,Yes
+CUC-1455,Carlos Hernandez,24,Male,Monteria,92.69,81.97,2.52,3.05,3.65,3.13,2,No,No,No,No
+CUC-1456,Maria Moreno,28,Male,Monteria,71.38,74.89,2.1,2.84,2.55,2.5,5,No,Yes,No,No
+CUC-1457,Juan Perez,17,,Santa Marta,77.8,75.43,2.21,2.82,3.22,2.8,5,Yes,No,Yes,Yes
+CUC-1458,Daniel Martinez,16,Female,Cartagena,68.35,53.19,3.11,2.82,3.62,3.23,5,No,No,Yes,Yes
+CUC-1459,Laura Castro,28,Female,Soledad,83.73,72.48,3.72,3.1,4.69,3.92,2,No,No,No,No
+CUC-1460,Santiago Gonzalez,25,Female,Cartagena,73.75,87.0,2.53,3.4,2.58,2.81,4,Yes,Yes,No,Yes
+CUC-1461,Isabella Moreno,27,Female,Santa Marta,63.27,78.18,3.95,1.45,3.76,3.13,5,No,Yes,No,Yes
+CUC-1462,Juan Gonzalez,29,Female,Monteria,74.87,71.85,2.95,1.54,3.84,2.88,4,No,Yes,No,Yes
+CUC-1463,Andres Gonzalez,17,Male,Other,78.91,90.54,2.96,2.96,2.09,2.61,4,No,,No,No
+CUC-1464,Isabella Vargas,22,Female,Cartagena,77.55,67.78,2.71,3.06,3.69,3.21,3,Yes,Yes,No,No
+CUC-1465,Sofia Hernandez,18,Male,Monteria,85.46,62.57,1.98,3.33,4.02,3.2,4,Yes,Yes,No,Yes
+CUC-1466,Sebastian Vargas,25,Female,,60.52,71.85,3.46,2.69,3.81,3.37,1,Yes,No,No,No
+CUC-1467,Gabriela Martinez,17,Female,Barranquilla,66.57,79.2,4.5,3.21,3.34,3.65,4,No,Yes,Yes,No
+CUC-1468,Laura Lopez,29,Female,Cartagena,81.4,49.39,3.26,3.29,3.63,3.42,2,Yes,No,No,No
+CUC-1469,Laura Perez,26,,,67.75,73.42,2.0,2.69,3.52,2.81,3,No,No,No,No
+CUC-1470,Valentina Gomez,22,Female,Cartagena,77.4,79.72,3.85,3.91,2.22,3.21,3,Yes,No,Yes,Yes
+CUC-1471,Mateo Gomez,28,Female,Monteria,50.8,66.76,2.16,3.32,3.54,3.06,4,No,No,No,Yes
+CUC-1472,David Gomez,28,Male,Other,100.0,83.28,2.45,3.58,3.14,3.07,2,No,No,No,Yes
+CUC-1473,Mateo Lopez,17,Male,Santa Marta,72.3,77.69,3.13,3.25,2.91,3.08,4,No,No,No,Yes
+CUC-1474,Maria Gonzalez,18,Female,Barranquilla,86.94,95.7,3.39,4.67,5.0,4.42,5,Yes,Yes,No,No
+CUC-1475,Laura Martinez,26,Male,Monteria,71.63,60.99,2.59,3.62,4.28,3.57,2,No,Yes,No,No
+CUC-1476,Camilo Perez,22,Female,Soledad,79.15,79.97,3.11,2.86,2.59,2.83,2,Yes,Yes,No,No
+CUC-1477,Valentina Ramirez,29,Male,Soledad,89.92,57.79,3.8,3.77,3.64,3.73,2,No,No,No,No
+CUC-1478,Juan Lopez,19,Male,Barranquilla,86.66,50.62,3.9,2.05,4.42,3.55,5,No,No,No,Yes
+CUC-1479,Laura Vargas,28,Female,Santa Marta,72.96,45.57,4.18,3.28,2.35,3.18,4,Yes,No,No,Yes
+CUC-1480,Mateo Gomez,29,Male,Monteria,73.65,76.46,4.64,3.42,3.45,3.8,3,No,No,No,Yes
+CUC-1481,Camilo Castro,16,Female,Cartagena,85.04,72.21,3.87,3.29,3.49,3.54,2,No,Yes,No,Yes
+CUC-1482,Sofia Ramirez,28,Male,Barranquilla,98.33,64.25,3.15,2.97,2.51,2.84,4,Yes,No,No,Yes
+CUC-1483,Daniel Gonzalez,29,Male,Santa Marta,76.92,48.72,3.9,2.49,3.67,3.38,5,No,No,No,No
+CUC-1484,Daniel Torres,20,Female,Cartagena,94.57,61.72,3.63,2.65,4.18,3.55,5,Yes,Yes,Yes,No
+CUC-1485,Maria Vargas,27,Female,Soledad,72.59,70.05,3.65,3.27,4.46,3.86,4,No,No,No,Yes
+CUC-1486,Andres Castro,24,Female,Soledad,84.52,79.52,3.42,2.42,3.23,3.04,1,No,,No,Yes
+CUC-1487,Paula Gomez,23,Female,Cartagena,86.01,69.8,2.66,4.44,5.0,4.13,2,Yes,,No,No
+CUC-1488,Valentina Torres,27,Female,Barranquilla,70.9,73.02,2.58,1.35,1.96,1.96,1,No,No,Yes,Yes
+CUC-1489,Sebastian Martinez,24,Male,Soledad,67.53,65.49,3.23,2.97,3.65,3.32,3,No,Yes,Yes,No
+CUC-1490,Mateo Martinez,25,Male,Monteria,86.45,90.99,3.4,3.28,2.41,2.97,2,No,No,No,No
+CUC-1491,Andres Torres,29,,Other,69.68,57.78,2.82,3.56,3.46,3.3,3,No,No,No,No
+CUC-1492,Camila Rodriguez,24,Female,Cartagena,66.06,61.61,3.6,2.56,3.03,3.06,3,No,No,No,Yes
+CUC-1493,Sofia Torres,22,Female,Cartagena,68.16,64.09,4.76,3.99,3.75,4.13,6,No,No,No,No
+CUC-1494,Carlos Castro,19,Male,Soledad,69.64,76.51,2.08,2.22,3.31,2.62,4,No,Yes,No,Yes
+CUC-1495,Andres Torres,20,Male,Barranquilla,83.57,57.53,3.71,2.8,2.82,3.08,5,No,No,No,No
+CUC-1496,Carlos Vargas,16,Female,Monteria,80.15,71.63,3.25,3.63,2.87,3.21,5,No,No,Yes,No
+CUC-1497,Laura Ramirez,29,Female,Barranquilla,82.16,71.98,3.62,3.93,4.75,4.16,2,No,No,No,Yes
+CUC-1498,Valentina Martinez,16,Female,Santa Marta,79.21,61.67,3.0,,3.71,3.05,5,No,Yes,Yes,No
+CUC-1499,Mateo Vargas,18,Female,Santa Marta,69.06,73.96,3.2,5.0,2.21,3.34,3,No,No,No,No
